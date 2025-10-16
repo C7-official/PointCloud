@@ -1,0 +1,535 @@
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 0, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 2'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 6'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 8'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 15'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 14'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 13'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 12'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 1'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 17'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 19'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 11'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 9'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 7'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 10'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 4'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 18'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 5'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 3'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 16'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 24'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 22'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 21'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 20'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 23'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 25'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 26'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 28'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 27'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud0.las, first point: 29'000'000, num points: 359'691
+INFO(chunker_countsort_laszip.cpp:176): counting cloud1.las, first point: 2'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud1.las, first point: 4'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud1.las, first point: 3'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud1.las, first point: 0, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud1.las, first point: 5'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud1.las, first point: 1'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud1.las, first point: 6'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud1.las, first point: 11'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud1.las, first point: 8'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud1.las, first point: 14'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud1.las, first point: 7'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud1.las, first point: 9'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud1.las, first point: 10'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud10.las, first point: 1'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud1.las, first point: 13'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud1.las, first point: 15'000'000, num points: 368'079
+INFO(chunker_countsort_laszip.cpp:176): counting cloud1.las, first point: 12'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud10.las, first point: 0, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud10.las, first point: 5'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud10.las, first point: 6'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud10.las, first point: 2'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud10.las, first point: 3'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud10.las, first point: 4'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud10.las, first point: 7'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud10.las, first point: 8'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud10.las, first point: 9'000'000, num points: 854'235
+INFO(chunker_countsort_laszip.cpp:176): counting cloud12.las, first point: 0, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud12.las, first point: 1'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud12.las, first point: 2'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud12.las, first point: 3'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud12.las, first point: 4'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud12.las, first point: 5'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud12.las, first point: 6'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud11.las, first point: 3'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud11.las, first point: 4'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud11.las, first point: 0, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud11.las, first point: 1'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud11.las, first point: 5'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud11.las, first point: 2'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud12.las, first point: 7'000'000, num points: 357'871
+INFO(chunker_countsort_laszip.cpp:176): counting cloud11.las, first point: 6'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud11.las, first point: 7'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud11.las, first point: 8'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud11.las, first point: 9'000'000, num points: 186'467
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 0, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 1'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 3'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 4'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 2'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 5'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 6'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 8'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 7'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 9'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 10'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 11'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 12'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 14'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 13'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 15'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 16'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 18'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 17'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 19'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 21'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 20'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 22'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 23'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 24'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 25'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 26'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 27'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 28'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 29'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 30'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 31'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 32'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 33'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 34'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 35'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud13.las, first point: 36'000'000, num points: 325'788
+INFO(chunker_countsort_laszip.cpp:176): counting cloud2.las, first point: 1'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud2.las, first point: 0, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud2.las, first point: 2'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud2.las, first point: 3'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud2.las, first point: 4'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud2.las, first point: 5'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud2.las, first point: 8'000'000, num points: 639'924
+INFO(chunker_countsort_laszip.cpp:176): counting cloud2.las, first point: 7'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 0, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud2.las, first point: 6'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 1'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 3'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 2'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 5'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 7'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 6'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 4'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 8'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 9'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 10'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 12'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 11'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 13'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 14'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 15'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 16'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 17'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 18'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 19'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 20'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 22'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 21'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 24'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 23'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 25'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 27'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 26'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 29'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 28'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 30'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud14.las, first point: 31'000'000, num points: 348'650
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 0, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 2'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 1'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 3'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 4'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 5'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 6'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 7'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 8'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 10'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 9'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 12'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 11'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 13'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 15'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 14'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 16'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 18'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 17'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 19'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 20'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 21'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 22'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 23'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 24'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 25'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 27'000'000, num points: 808'873
+INFO(chunker_countsort_laszip.cpp:176): counting cloud3.las, first point: 26'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud5.las, first point: 0, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud5.las, first point: 1'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud5.las, first point: 2'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud5.las, first point: 3'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud5.las, first point: 4'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud5.las, first point: 5'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud4.las, first point: 1'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud4.las, first point: 0, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud5.las, first point: 6'000'000, num points: 782'923
+INFO(chunker_countsort_laszip.cpp:176): counting cloud4.las, first point: 2'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud4.las, first point: 3'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud4.las, first point: 4'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud4.las, first point: 7'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud4.las, first point: 5'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud4.las, first point: 6'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud4.las, first point: 8'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud4.las, first point: 10'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud4.las, first point: 11'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud4.las, first point: 9'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud4.las, first point: 12'000'000, num points: 799'641
+INFO(chunker_countsort_laszip.cpp:176): counting cloud7.las, first point: 0, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud7.las, first point: 1'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud7.las, first point: 2'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud7.las, first point: 4'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud7.las, first point: 3'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud7.las, first point: 6'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud7.las, first point: 5'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud7.las, first point: 7'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud7.las, first point: 8'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud7.las, first point: 9'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud7.las, first point: 10'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud7.las, first point: 11'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud7.las, first point: 12'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud7.las, first point: 13'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud7.las, first point: 14'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud7.las, first point: 15'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud7.las, first point: 16'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud7.las, first point: 17'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud7.las, first point: 18'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud7.las, first point: 19'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud7.las, first point: 20'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud9.las, first point: 0, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud7.las, first point: 21'000'000, num points: 192'682
+INFO(chunker_countsort_laszip.cpp:176): counting cloud9.las, first point: 1'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud9.las, first point: 2'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud9.las, first point: 3'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud9.las, first point: 4'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud9.las, first point: 5'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud9.las, first point: 6'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud9.las, first point: 7'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud9.las, first point: 8'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud9.las, first point: 9'000'000, num points: 510'921
+INFO(chunker_countsort_laszip.cpp:176): counting cloud6.las, first point: 0, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud6.las, first point: 1'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud6.las, first point: 2'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud6.las, first point: 3'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud6.las, first point: 4'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud6.las, first point: 5'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud6.las, first point: 6'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud6.las, first point: 9'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud6.las, first point: 7'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud6.las, first point: 8'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud6.las, first point: 10'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud6.las, first point: 11'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud6.las, first point: 12'000'000, num points: 785'617
+INFO(chunker_countsort_laszip.cpp:176): counting cloud8.las, first point: 1'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud8.las, first point: 0, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud8.las, first point: 2'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud8.las, first point: 3'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud8.las, first point: 4'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud8.las, first point: 5'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud8.las, first point: 7'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud8.las, first point: 8'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud8.las, first point: 6'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting cloud8.las, first point: 9'000'000, num points: 362'825
+INFO(indexer.cpp:1656): start indexing chunk r064
+filesize: 118'775'755
+min: 801393.27439225698, 3905811.4050190691, 22.031047589945167
+max: 801839.15827779518, 3906257.2889046073, 467.91493312810701
+INFO(indexer.cpp:1656): start indexing chunk r062
+filesize: 241'560'935
+min: 800947.39050671889, 3906257.2889046073, 22.031047589945167
+max: 801393.27439225698, 3906703.1727901455, 467.91493312810701
+INFO(indexer.cpp:1656): start indexing chunk r02
+filesize: 330'707'545
+min: 800055.6227356426, 3905811.4050190691, 22.031047589945167
+max: 800947.39050671889, 3906703.1727901455, 913.79881866626886
+INFO(indexer.cpp:1656): start indexing chunk r0660
+filesize: 65'207'450
+min: 801393.27439225698, 3906257.2889046073, 22.031047589945167
+max: 801616.21633502608, 3906480.2308473764, 244.97299035902608
+INFO(indexer.cpp:1656): start indexing chunk r0662
+filesize: 225'096'690
+min: 801393.27439225698, 3906480.2308473764, 22.031047589945167
+max: 801616.21633502608, 3906703.1727901455, 244.97299035902608
+INFO(indexer.cpp:1656): start indexing chunk r0664
+filesize: 146'350'785
+min: 801616.21633502608, 3906257.2889046073, 22.031047589945167
+max: 801839.15827779518, 3906480.2308473764, 244.97299035902608
+INFO(indexer.cpp:1656): start indexing chunk r0666
+filesize: 27'087'060
+min: 801616.21633502608, 3906480.2308473764, 22.031047589945167
+max: 801839.15827779518, 3906703.1727901455, 244.97299035902608
+INFO(indexer.cpp:1656): start indexing chunk r2000
+filesize: 158'310'985
+min: 800055.6227356426, 3906703.1727901455, 22.031047589945167
+max: 800278.5646784117, 3906926.1147329146, 244.97299035902608
+INFO(indexer.cpp:1656): start indexing chunk r2002
+filesize: 159'538'330
+min: 800055.6227356426, 3906926.1147329146, 22.031047589945167
+max: 800278.5646784117, 3907149.0566756837, 244.97299035902608
+INFO(indexer.cpp:1656): start indexing chunk r2006
+filesize: 297'519'180
+min: 800278.5646784117, 3906926.1147329146, 22.031047589945167
+max: 800501.5066211808, 3907149.0566756837, 244.97299035902608
+INFO(indexer.cpp:1656): start indexing chunk r2004
+filesize: 344'797'285
+min: 800278.5646784117, 3906703.1727901455, 22.031047589945167
+max: 800501.5066211808, 3906926.1147329146, 244.97299035902608
+INFO(indexer.cpp:1656): start indexing chunk r2020
+filesize: 163'712'395
+min: 800055.6227356426, 3907149.0566756837, 22.031047589945167
+max: 800278.5646784117, 3907371.9986184528, 244.97299035902608
+INFO(indexer.cpp:1656): start indexing chunk r2022
+filesize: 61'205'270
+min: 800055.6227356426, 3907371.9986184528, 22.031047589945167
+max: 800278.5646784117, 3907594.9405612219, 244.97299035902608
+INFO(indexer.cpp:1656): start indexing chunk r20240
+filesize: 91'881'405
+min: 800278.5646784117, 3907149.0566756837, 22.031047589945167
+max: 800390.03564979625, 3907260.5276470683, 133.50201897448562
+INFO(indexer.cpp:1656): start indexing chunk r20242
+filesize: 91'714'000
+min: 800278.5646784117, 3907260.5276470683, 22.031047589945167
+max: 800390.03564979625, 3907371.9986184528, 133.50201897448562
+INFO(indexer.cpp:1656): start indexing chunk r20244
+filesize: 93'770'950
+min: 800390.03564979625, 3907149.0566756837, 22.031047589945167
+max: 800501.5066211808, 3907260.5276470683, 133.50201897448562
+INFO(indexer.cpp:1656): start indexing chunk r2026
+filesize: 181'547'835
+min: 800278.5646784117, 3907371.9986184528, 22.031047589945167
+max: 800501.5066211808, 3907594.9405612219, 244.97299035902608
+INFO(indexer.cpp:1656): start indexing chunk r2040
+filesize: 230'511'190
+min: 800501.5066211808, 3906703.1727901455, 22.031047589945167
+max: 800724.4485639499, 3906926.1147329146, 244.97299035902608
+INFO(indexer.cpp:1656): start indexing chunk r20246
+filesize: 89'193'720
+min: 800390.03564979625, 3907260.5276470683, 22.031047589945167
+max: 800501.5066211808, 3907371.9986184528, 133.50201897448562
+INFO(indexer.cpp:1656): start indexing chunk r2042
+filesize: 234'458'945
+min: 800501.5066211808, 3906926.1147329146, 22.031047589945167
+max: 800724.4485639499, 3907149.0566756837, 244.97299035902608
+INFO(indexer.cpp:1656): start indexing chunk r2044
+filesize: 181'901'405
+min: 800724.4485639499, 3906703.1727901455, 22.031047589945167
+max: 800947.39050671889, 3906926.1147329146, 244.97299035902608
+INFO(indexer.cpp:1656): start indexing chunk r2046
+filesize: 320'363'680
+min: 800724.4485639499, 3906926.1147329146, 22.031047589945167
+max: 800947.39050671889, 3907149.0566756837, 244.97299035902608
+INFO(indexer.cpp:1656): start indexing chunk r2060
+filesize: 248'763'480
+min: 800501.5066211808, 3907149.0566756837, 22.031047589945167
+max: 800724.4485639499, 3907371.9986184528, 244.97299035902608
+INFO(indexer.cpp:1656): start indexing chunk r2062
+filesize: 16'865'205
+min: 800501.5066211808, 3907371.9986184528, 22.031047589945167
+max: 800724.4485639499, 3907594.9405612219, 244.97299035902608
+INFO(indexer.cpp:1699): finished indexing chunk r2062
+INFO(indexer.cpp:1656): start indexing chunk r2064
+filesize: 104'426'665
+min: 800724.4485639499, 3907149.0566756837, 22.031047589945167
+max: 800947.39050671889, 3907371.9986184528, 244.97299035902608
+INFO(indexer.cpp:1699): finished indexing chunk r0666
+INFO(indexer.cpp:1656): start indexing chunk r2400
+filesize: 204'688'435
+min: 800947.39050671889, 3906703.1727901455, 22.031047589945167
+max: 801170.33244948788, 3906926.1147329146, 244.97299035902608
+INFO(indexer.cpp:1699): finished indexing chunk r2022
+INFO(indexer.cpp:1656): start indexing chunk r2402
+filesize: 202'470'520
+min: 800947.39050671889, 3906926.1147329146, 22.031047589945167
+max: 801170.33244948788, 3907149.0566756837, 244.97299035902608
+INFO(indexer.cpp:1699): finished indexing chunk r0660
+INFO(indexer.cpp:1656): start indexing chunk r2404
+filesize: 283'287'410
+min: 801170.33244948788, 3906703.1727901455, 22.031047589945167
+max: 801393.27439225698, 3906926.1147329146, 244.97299035902608
+INFO(indexer.cpp:1699): finished indexing chunk r20246
+INFO(indexer.cpp:1656): start indexing chunk r2406
+filesize: 24'946'950
+min: 801170.33244948788, 3906926.1147329146, 22.031047589945167
+max: 801393.27439225698, 3907149.0566756837, 244.97299035902608
+INFO(indexer.cpp:1699): finished indexing chunk r20240
+INFO(indexer.cpp:1656): start indexing chunk r242
+filesize: 22'365
+min: 800947.39050671889, 3907149.0566756837, 22.031047589945167
+max: 801393.27439225698, 3907594.9405612219, 467.91493312810701
+INFO(indexer.cpp:1699): finished indexing chunk r242
+INFO(indexer.cpp:1656): start indexing chunk r244
+filesize: 93'019'325
+min: 801393.27439225698, 3906703.1727901455, 22.031047589945167
+max: 801839.15827779518, 3907149.0566756837, 467.91493312810701
+INFO(indexer.cpp:1699): finished indexing chunk r20244
+INFO(indexer.cpp:1656): start indexing chunk r402
+filesize: 248'905'545
+min: 801839.15827779518, 3905365.5211335309, 22.031047589945167
+max: 802285.04216333339, 3905811.4050190691, 467.91493312810701
+INFO(indexer.cpp:1699): finished indexing chunk r20242
+INFO(indexer.cpp:1656): start indexing chunk r4040
+filesize: 1'073'065
+min: 802285.04216333339, 3904919.6372479931, 22.031047589945167
+max: 802507.98410610249, 3905142.5791907618, 244.97299035902608
+INFO(indexer.cpp:1699): finished indexing chunk r4040
+INFO(indexer.cpp:1656): start indexing chunk r4042
+filesize: 114'660'805
+min: 802285.04216333339, 3905142.5791907618, 22.031047589945167
+max: 802507.98410610249, 3905365.5211335309, 244.97299035902608
+INFO(indexer.cpp:1699): finished indexing chunk r2406
+INFO(indexer.cpp:1656): start indexing chunk r4044
+filesize: 225'513'225
+min: 802507.98410610249, 3904919.6372479931, 22.031047589945167
+max: 802730.9260488716, 3905142.5791907618, 244.97299035902608
+INFO(indexer.cpp:1699): finished indexing chunk r0664
+INFO(indexer.cpp:1656): start indexing chunk r4046
+filesize: 315'555'695
+min: 802507.98410610249, 3905142.5791907618, 22.031047589945167
+max: 802730.9260488716, 3905365.5211335309, 244.97299035902608
+INFO(indexer.cpp:1699): finished indexing chunk r2064
+INFO(indexer.cpp:1656): start indexing chunk r406
+filesize: 250'754'560
+min: 802285.04216333339, 3905365.5211335309, 22.031047589945167
+max: 802730.9260488716, 3905811.4050190691, 467.91493312810701
+INFO(indexer.cpp:1699): finished indexing chunk r064
+INFO(indexer.cpp:1656): start indexing chunk r4200
+filesize: 167'030'990
+min: 801839.15827779518, 3905811.4050190691, 22.031047589945167
+max: 802062.10022056429, 3906034.3469618382, 244.97299035902608
+INFO(indexer.cpp:1699): finished indexing chunk r2002
+INFO(indexer.cpp:1656): start indexing chunk r4202
+filesize: 126'138'915
+min: 801839.15827779518, 3906034.3469618382, 22.031047589945167
+max: 802062.10022056429, 3906257.2889046073, 244.97299035902608
+INFO(indexer.cpp:1699): finished indexing chunk r2000
+INFO(indexer.cpp:1656): start indexing chunk r4204
+filesize: 84'998'830
+min: 802062.10022056429, 3905811.4050190691, 22.031047589945167
+max: 802285.04216333339, 3906034.3469618382, 244.97299035902608
+INFO(indexer.cpp:1699): finished indexing chunk r2020
+INFO(indexer.cpp:1656): start indexing chunk r4206
+filesize: 347'760
+min: 802062.10022056429, 3906034.3469618382, 22.031047589945167
+max: 802285.04216333339, 3906257.2889046073, 244.97299035902608
+INFO(indexer.cpp:1699): finished indexing chunk r4206
+INFO(indexer.cpp:1656): start indexing chunk r422
+filesize: 10'199'735
+min: 801839.15827779518, 3906257.2889046073, 22.031047589945167
+max: 802285.04216333339, 3906703.1727901455, 467.91493312810701
+INFO(indexer.cpp:1699): finished indexing chunk r422
+INFO(indexer.cpp:1656): start indexing chunk r4400
+filesize: 171'435'565
+min: 802730.9260488716, 3904919.6372479931, 22.031047589945167
+max: 802953.8679916407, 3905142.5791907618, 244.97299035902608
+INFO(indexer.cpp:1699): finished indexing chunk r2044
+INFO(indexer.cpp:1656): start indexing chunk r4402
+filesize: 146'312'950
+min: 802730.9260488716, 3905142.5791907618, 22.031047589945167
+max: 802953.8679916407, 3905365.5211335309, 244.97299035902608
+INFO(indexer.cpp:1699): finished indexing chunk r0662
+INFO(indexer.cpp:1656): start indexing chunk r44040
+filesize: 59'026'730
+min: 802953.8679916407, 3904919.6372479931, 22.031047589945167
+max: 803065.33896302525, 3905031.1082193777, 133.50201897448562
+INFO(indexer.cpp:1699): finished indexing chunk r4204
+INFO(indexer.cpp:1656): start indexing chunk r44042
+filesize: 106'149'190
+min: 802953.8679916407, 3905031.1082193777, 22.031047589945167
+max: 803065.33896302525, 3905142.5791907618, 133.50201897448562
+INFO(indexer.cpp:1699): finished indexing chunk r4042
+INFO(indexer.cpp:1656): start indexing chunk r44044
+filesize: 77'615'685
+min: 803065.33896302525, 3904919.6372479931, 22.031047589945167
+max: 803176.8099344098, 3905031.1082193777, 133.50201897448562
+INFO(indexer.cpp:1699): finished indexing chunk r2400
+INFO(indexer.cpp:1656): start indexing chunk r44046
+filesize: 110'474'595
+min: 803065.33896302525, 3905031.1082193777, 22.031047589945167
+max: 803176.8099344098, 3905142.5791907618, 133.50201897448562
+INFO(indexer.cpp:1699): finished indexing chunk r244
+INFO(indexer.cpp:1656): start indexing chunk r4406
+filesize: 191'624'545
+min: 802953.8679916407, 3905142.5791907618, 22.031047589945167
+max: 803176.8099344098, 3905365.5211335309, 244.97299035902608
+INFO(indexer.cpp:1699): finished indexing chunk r4202
+INFO(indexer.cpp:1656): start indexing chunk r44400
+filesize: 81'356'135
+min: 803176.8099344098, 3904919.6372479931, 22.031047589945167
+max: 803288.28090579435, 3905031.1082193777, 133.50201897448562
+INFO(indexer.cpp:1699): finished indexing chunk r2026
+INFO(indexer.cpp:1656): start indexing chunk r44402
+filesize: 133'850'185
+min: 803176.8099344098, 3905031.1082193777, 22.031047589945167
+max: 803288.28090579435, 3905142.5791907618, 133.50201897448562
+INFO(indexer.cpp:1699): finished indexing chunk r2040
+INFO(indexer.cpp:1656): start indexing chunk r44404
+filesize: 114'224'355
+min: 803288.28090579435, 3904919.6372479931, 22.031047589945167
+max: 803399.7518771789, 3905031.1082193777, 133.50201897448562
+INFO(indexer.cpp:1699): finished indexing chunk r2042
+INFO(indexer.cpp:1656): start indexing chunk r44406
+filesize: 157'339'945
+min: 803288.28090579435, 3905031.1082193777, 22.031047589945167
+max: 803399.7518771789, 3905142.5791907618, 133.50201897448562
+INFO(indexer.cpp:1699): finished indexing chunk r2402
+INFO(indexer.cpp:1656): start indexing chunk r4442
+filesize: 336'439'460
+min: 803176.8099344098, 3905142.5791907618, 22.031047589945167
+max: 803399.7518771789, 3905365.5211335309, 244.97299035902608
+INFO(indexer.cpp:1699): finished indexing chunk r44040
+INFO(indexer.cpp:1656): start indexing chunk r4444
+filesize: 214'261'460
+min: 803399.7518771789, 3904919.6372479931, 22.031047589945167
+max: 803622.69381994789, 3905142.5791907618, 244.97299035902608
+INFO(indexer.cpp:1699): finished indexing chunk r4200
+INFO(indexer.cpp:1656): start indexing chunk r4446
+filesize: 189'953'470
+min: 803399.7518771789, 3905142.5791907618, 22.031047589945167
+max: 803622.69381994789, 3905365.5211335309, 244.97299035902608
+INFO(indexer.cpp:1699): finished indexing chunk r4402
+INFO(indexer.cpp:1699): finished indexing chunk r4400
+INFO(indexer.cpp:1699): finished indexing chunk r44044
+INFO(indexer.cpp:1699): finished indexing chunk r062
+INFO(indexer.cpp:1699): finished indexing chunk r44400
+INFO(indexer.cpp:1699): finished indexing chunk r2060
+INFO(indexer.cpp:1699): finished indexing chunk r2006
+INFO(indexer.cpp:1699): finished indexing chunk r44042
+INFO(indexer.cpp:1699): finished indexing chunk r44046
+INFO(indexer.cpp:1699): finished indexing chunk r02
+INFO(indexer.cpp:1699): finished indexing chunk r44404
+INFO(indexer.cpp:1699): finished indexing chunk r44402
+INFO(indexer.cpp:1699): finished indexing chunk r2404
+INFO(indexer.cpp:1699): finished indexing chunk r4044
+INFO(indexer.cpp:1699): finished indexing chunk r2046
+INFO(indexer.cpp:1699): finished indexing chunk r402
+INFO(indexer.cpp:1699): finished indexing chunk r2004
+INFO(indexer.cpp:1699): finished indexing chunk r406
+INFO(indexer.cpp:1699): finished indexing chunk r44406
+INFO(indexer.cpp:1699): finished indexing chunk r4406
+INFO(indexer.cpp:1699): finished indexing chunk r4446
+INFO(indexer.cpp:1699): finished indexing chunk r4046
+INFO(indexer.cpp:1699): finished indexing chunk r4444
+INFO(indexer.cpp:1699): finished indexing chunk r4442
