@@ -36,38 +36,46 @@
 		<div id="potree_sidebar_container"> </div>
 	</div>
 	
-<script>
- 	 // Potree 기본 세팅
+	<script>
+	
 		window.viewer = new Potree.Viewer(document.getElementById("potree_render_area"));
-		viewer.setEDLEnabled(false);      // 시인성/성능 위해 끔
+		
+		viewer.setEDLEnabled(true);
 		viewer.setFOV(60);
-		viewer.setPointBudget(4000000);
+		viewer.setPointBudget(2_000_000);
+		<!-- INCLUDE SETTINGS HERE -->
 		viewer.loadSettingsFromURL();
+		
+		viewer.setDescription("");
+		
+		viewer.loadGUI(() => {
+			viewer.setLanguage('en');
+			$("#menu_appearance").next().show();
+			$("#menu_tools").next().show();
+			$("#menu_clipping").next().show();
+			viewer.toggleSidebar();
+		});
+		
+		
 
-  // GitHub Pages 절대경로(원하면 상대경로로 바꿔도 됨)
-  const URL_PC = "https://c7-official.github.io/PointCloud/pointclouds/index/metadata.json";
+		Potree.loadPointCloud("./pointclouds/index/metadata.json", "index", e => {
+			let scene = viewer.scene;
+			let pointcloud = e.pointcloud;
+			
+			let material = pointcloud.material;
+			material.size = 1;
+			material.pointSizeType = Potree.PointSizeType.ADAPTIVE;
+			material.shape = Potree.PointShape.SQUARE;
+			material.activeAttributeName = "rgba";
+			
+			scene.addPointCloud(pointcloud);
+			
+			viewer.fitToScreen();
+		});
 
-  Potree.loadPointCloud(URL_PC, "index", e => {
-    const pc  = e.pointcloud;
-    const mat = pc.material;
-
-    // ★ 데이터 속성에 맞춤 (metadata.json에 "rgb" 존재)
-    // 아래 둘 중 '하나'만 쓰세요. (둘 다 쓰면 덮어써서 꼬일 수 있음)
-
-    // 방법 A) Potree 2.x 스타일
-    mat.activeAttributeName = "rgba";
-
-    // 방법 B) (대안) pointColorType 사용
-    // mat.pointColorType = Potree.PointColorType.RGB;
-
-    mat.size = 2.0;
-    mat.pointSizeType = Potree.PointSizeType.ADAPTIVE;
-    mat.shape = Potree.PointShape.SQUARE;
-
-    viewer.scene.addPointCloud(pc);
-    viewer.fitToScreen();
-  });
-</script>
+		
+		
+	</script>
 	
 	
   </body>
