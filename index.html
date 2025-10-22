@@ -56,13 +56,13 @@
 			viewer.toggleSidebar();
 		});
 		
+		const URL_PC = "https://c7-official.github.io/PointCloud/pointclouds/index/metadata.json";
 		
-
 		Potree.loadPointCloud("pointclouds/index/metadata.json", "index", e => {
-			let scene = viewer.scene;
-			let pointcloud = e.pointcloud;
+			const scene = viewer.scene;
+			const pointcloud = e.pointcloud;
 			
-			let material = pointcloud.material;
+			const material = pointcloud.material;
 			material.size = 2.0;
 			material.pointSizeType = Potree.PointSizeType.ADAPTIVE;
 			material.shape = Potree.PointShape.SQUARE;
