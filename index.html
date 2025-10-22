@@ -42,7 +42,7 @@
 		
 		viewer.setEDLEnabled(true);
 		viewer.setFOV(60);
-		viewer.setPointBudget(2_000_000);
+		viewer.setPointBudget(4000000);
 		<!-- INCLUDE SETTINGS HERE -->
 		viewer.loadSettingsFromURL();
 		
@@ -58,12 +58,12 @@
 		
 		
 
-		Potree.loadPointCloud("./pointclouds/index/metadata.json", "index", e => {
+		Potree.loadPointCloud("pointclouds/index/metadata.json", "index", e => {
 			let scene = viewer.scene;
 			let pointcloud = e.pointcloud;
 			
 			let material = pointcloud.material;
-			material.size = 1;
+			material.size = 2.0;
 			material.pointSizeType = Potree.PointSizeType.ADAPTIVE;
 			material.shape = Potree.PointShape.SQUARE;
 			material.activeAttributeName = "rgba";
